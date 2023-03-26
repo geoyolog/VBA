@@ -1,5 +1,5 @@
 # VBA projects
-# MS Excel - sheet changer
+## MS Excel - sheet changer
 If you work on Excel file with many sheets you can use this addin to change active sheet easier.
 
 How to install:
