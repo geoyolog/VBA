@@ -11,7 +11,7 @@ How to install:
 
 How to use:
 1. Addin will automatically prepare a list of all sheets in Excel file.
-2. In case the list of sheets changes, press "Odśwież" ("Refresh")to reload the list view.
-3. If you would like to change sheet automatically, check "Automatyczne przejście" ("Automatic transition") above the list (selected by default).
+2. In case the list of sheets changes, press "Refresh" to reload the list view.
+3. If you would like to change sheet automatically, check "Automatic transition" above the list (selected by default).
 4. If you would like to go to address A1 in selected sheet, check "A1" (unselected by default). Otherwise recently activated cell will be active.
-5. To change active sheet, select sheet name on the list and press "Przejdź" ("Go") in case automatic transition is unselected.
+5. To change active sheet, select sheet name on the list and press "Go" in case automatic transition is unselected.
